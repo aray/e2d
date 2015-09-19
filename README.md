@@ -1,3 +1,4 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/aray/e2d)
 # e2d
 [Improving GraphX's EdgePartition2D](EdgePartition2D.ipynb)
 
